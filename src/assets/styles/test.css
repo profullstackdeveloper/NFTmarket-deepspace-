@@ -1,0 +1,12 @@
+
+body {
+  background: url('../img/search01/main-bg.jpg') top right / cover no-repeat;
+  animation: bg-animation 50s ease-in-out infinite;
+  -webkit-animation: bg-animation 50s ease-in-out infinite;
+  color: rgba(130, 230, 230, 0,34);
+  background: linear-gradient(106.22deg, #4E22FF 14.3%, #6777F7 55.72%, #6879F7 55.73%, #687BF7 55.74%, #84D5EF 101.69%);
+  background: linear-gradient(-16deg, #84D5EF 14.3%,#687BF7 55.72%, #6879F7 55.73%, #6777F7 55.74%, #4E22FF 101.69%);
+
+
+}
+
